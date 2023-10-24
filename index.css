@@ -1,0 +1,835 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.poli-kZe {
+  width: 100%;
+  height: 260rem;
+}
+.poli-kZe .poli-uBe {
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffebeb;
+}
+.poli-kZe .poli-uBe .image-1-Ezc {
+  margin-bottom: 14.7rem;
+  width: 144rem;
+  height: 42.7rem;
+  position: relative;
+  background-size: 100% 189.696%;
+  background-position: 0 -19.15rem;
+  background-image: url('../assets/image-1-AKi.png');
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet {
+  width: 100%;
+  height: 114.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .auto-group-cejz-fKE {
+  width: 20.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 119.7rem;
+  top: 95.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .auto-group-cejz-fKE .selanjutnya-BYU {
+  margin-right: 1.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 0.625;
+  letter-spacing: -0.0704rem;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .auto-group-cejz-fKE .arrow-tSt {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .frame-2-Dzx {
+  box-sizing: border-box;
+  padding: 0.304rem 0.455rem 0.5rem 0.292rem;
+  width: 114.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 17rem;
+  top: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .frame-2-Dzx .poli-gtY {
+  margin: 0.196rem 24.792rem 0rem 0rem;
+  width: 2.9166rem;
+  height: 2.9167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .frame-2-Dzx .dokter-Cbz {
+  margin: 0.196rem 24.938rem 0rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .frame-2-Dzx .jadwal-KwW {
+  margin: 0rem 24.696rem 0.113rem 0rem;
+  width: 2.625rem;
+  height: 3.0833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .frame-2-Dzx .reservasi-eyn {
+  margin: 0.131rem 24.91rem 0rem 0rem;
+  width: 2.5188rem;
+  height: 2.5188rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .frame-2-Dzx .konfirmasi-nKJ {
+  margin-top: 0.1955rem;
+  width: 2.9574rem;
+  height: 2.8303rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-2-7Ma {
+  width: 119.85rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 11rem;
+  display: flex;
+  align-items: flex-end;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-2-7Ma .menentukan-poli-Eh6 {
+  margin: 0rem 18.05rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-2-7Ma .list-dokter-LVE {
+  margin: 0rem 19.75rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-2-7Ma .jadwal-dokter-f1i {
+  margin-right: 18.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-2-7Ma .reservasi-Nwi {
+  margin-right: 20.45rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-2-7Ma .konfirmasi-WY8 {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .auto-group-wjrl-rM6 {
+  width: 132rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 14.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .pilih-poli-yang-ingin-dituju-agar-dapat-menentukan-dokter-b3n {
+  width: 12.6rem;
+  height: 7.1rem;
+  position: absolute;
+  left: 12.5rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je {
+  width: 118.3rem;
+  height: 28.8rem;
+  cursor: pointer;
+  position: absolute;
+  left: 14.4rem;
+  top: 39.9rem;
+  display: flex;
+  column-gap: 1.7rem;
+  align-items: center;
+  border-radius: 2rem;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC {
+  width: 28.3rem;
+  height: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-1-vkG {
+  box-sizing: border-box;
+  padding: 1.6rem 10.1rem 2rem 10.1rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-1-vkG .poli-gigi-dentist-45n {
+  max-width: 8.1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-1-vkG .poli-gigi-dentist-45n .poli-gigi-dentist-45n-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-1-vkG .poli-gigi-dentist-45n .poli-gigi-dentist-45n-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-5-qXn {
+  box-sizing: border-box;
+  padding: 1.6rem 9.45rem 2rem 9.45rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-5-qXn .poli-anak-pediatrician-MW8 {
+  max-width: 9.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-5-qXn .poli-anak-pediatrician-MW8 .poli-anak-pediatrician-MW8-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-5-qXn .poli-anak-pediatrician-MW8 .poli-anak-pediatrician-MW8-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-9-gqE {
+  box-sizing: border-box;
+  padding: 1.6rem 5.25rem 2rem 5.25rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-9-gqE .poli-bedah-plastik-plastic-surgery-bBW {
+  max-width: 17.8rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-9-gqE .poli-bedah-plastik-plastic-surgery-bBW .poli-bedah-plastik-plastic-surgery-bBW-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-mhvj-bCC .poli-9-gqE .poli-bedah-plastik-plastic-surgery-bBW .poli-bedah-plastik-plastic-surgery-bBW-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q {
+  width: 28.3rem;
+  height: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-2-8z4 {
+  box-sizing: border-box;
+  padding: 1.6rem 8.85rem 2rem 8.85rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-2-8z4 .poli-bedah-surgery-GaU {
+  max-width: 10.6rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-2-8z4 .poli-bedah-surgery-GaU .poli-bedah-surgery-GaU-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-2-8z4 .poli-bedah-surgery-GaU .poli-bedah-surgery-GaU-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-6-umr {
+  box-sizing: border-box;
+  padding: 1.6rem 7.25rem 2rem 7.25rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-6-umr .poli-obgyn-obstetricsand-gynecology-3dA {
+  max-width: 13.8rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-6-umr .poli-obgyn-obstetricsand-gynecology-3dA .poli-obgyn-obstetricsand-gynecology-3dA-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-6-umr .poli-obgyn-obstetricsand-gynecology-3dA .poli-obgyn-obstetricsand-gynecology-3dA-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-10-HR2 {
+  box-sizing: border-box;
+  padding: 1.6rem 5.95rem 2rem 5.95rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-10-HR2 .poli-bedah-saraf-neuro-surgery-cy6 {
+  max-width: 16.4rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-10-HR2 .poli-bedah-saraf-neuro-surgery-cy6 .poli-bedah-saraf-neuro-surgery-cy6-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-emeg-D6Q .poli-10-HR2 .poli-bedah-saraf-neuro-surgery-cy6 .poli-bedah-saraf-neuro-surgery-cy6-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe {
+  width: 28.3rem;
+  height: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-3-cEL {
+  box-sizing: border-box;
+  padding: 1.6rem 8.6rem 2rem 8.6rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-3-cEL .poli-umum-general-9EG {
+  max-width: 11.1rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-3-cEL .poli-umum-general-9EG .poli-umum-general-9EG-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-3-cEL .poli-umum-general-9EG .poli-umum-general-9EG-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-7-pzc {
+  box-sizing: border-box;
+  padding: 1.6rem 7rem 2rem 7rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-7-pzc .poli-kardiologi-cardiology-NFS {
+  max-width: 14.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-7-pzc .poli-kardiologi-cardiology-NFS .poli-kardiologi-cardiology-NFS-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-7-pzc .poli-kardiologi-cardiology-NFS .poli-kardiologi-cardiology-NFS-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-11-pme {
+  box-sizing: border-box;
+  padding: 1.6rem 8.5rem 2rem 8.5rem;
+  width: 100%;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-11-pme .poli-urologi-urology-9Z2 {
+  max-width: 11.3rem;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-11-pme .poli-urologi-urology-9Z2 .poli-urologi-urology-9Z2-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-xrzp-sXe .poli-11-pme .poli-urologi-urology-9Z2 .poli-urologi-urology-9Z2-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG {
+  box-sizing: border-box;
+  padding: 0rem 0rem 1rem 5rem;
+  width: 28.3rem;
+  height: 100%;
+  row-gap: 3rem;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-4-x96 {
+  box-sizing: border-box;
+  padding: 1.6rem 8.55rem 2rem 8.55rem;
+  width: 28.3rem;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-4-x96 .poli-interna-internal-5zQ {
+  box-sizing: border-box;
+  padding-top: -10rem;
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-4-x96 .poli-interna-internal-5zQ .poli-interna-internal-5zQ-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-4-x96 .poli-interna-internal-5zQ .poli-interna-internal-5zQ-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-8-ivt {
+  box-sizing: border-box;
+  padding: 1.6rem 9.4rem 2rem 9.4rem;
+  width: 28.3rem;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-8-ivt .poli-saraf-neurology-rnC {
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-8-ivt .poli-saraf-neurology-rnC .poli-saraf-neurology-rnC-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-8-ivt .poli-saraf-neurology-rnC .poli-saraf-neurology-rnC-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-12-jzQ {
+  box-sizing: border-box;
+  padding: 0.6rem 5.35rem 1rem 5.35rem;
+  width: 28.3rem;
+  height: 7.6rem;
+  cursor: pointer;
+  border: solid 0.3rem #52b788;
+  background-color: #ffffff;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-12-jzQ .poli-anastesi-dan-manajemen-nyeri-anesthesia-and-pain-management-sKv {
+  width: 100%;
+  height: 100%;
+  min-width: 100%;
+  min-height: 100%;
+  max-width: 100%;
+  max-height: 100%;
+  cursor: pointer;
+  text-align: center;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 0.5555555556;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-12-jzQ .poli-anastesi-dan-manajemen-nyeri-anesthesia-and-pain-management-sKv .poli-anastesi-dan-manajemen-nyeri-anesthesia-and-pain-management-sKv-sub-0 {
+  font-size: 2.4rem;
+  font-weight: 700;
+  line-height: 0.8333333333;
+  letter-spacing: -0.0792rem;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .auto-group-vkwy-iet .group-3-5je .auto-group-ylm6-qaG .poli-12-jzQ .poli-anastesi-dan-manajemen-nyeri-anesthesia-and-pain-management-sKv .poli-anastesi-dan-manajemen-nyeri-anesthesia-and-pain-management-sKv-sub-1 {
+  font-size: 1.3rem;
+  font-weight: 600;
+  line-height: 1.5384615385;
+  letter-spacing: -0.0792rem;
+  font-style: italic;
+  color: #52b788;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.poli-kZe .poli-uBe .info-Sfr {
+  box-sizing: border-box;
+  padding: 9.9rem 18.674rem 15.1rem 8.742rem;
+  width: 100%;
+  height: 88.4rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #292b33;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-vkse-Mnp {
+  margin-right: 5.058rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-vkse-Mnp .rumah-sakit-universitas-udayana-UsS {
+  margin-bottom: 0.6rem;
+  max-width: 31.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-vkse-Mnp .alamat-jl-rumah-sakit-universitas-udayana-nomor-1-jimbaran-kuta-selatan-badung-bali-803611-Ztt {
+  margin: 0rem 0rem 36.8rem 0.282rem;
+  max-width: 29.7rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.033rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-vkse-Mnp .temukan-kami-di-facebook-Mpk {
+  max-width: 26.9rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .kerjasama-dXN {
+  margin-right: 12.1684rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-jeuw-YeL {
+  margin-right: 6.458rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-jeuw-YeL .statistik-kunjungan-Hbv {
+  margin-bottom: 5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .auto-group-jeuw-YeL .total-pengunjung-pengunjung-hari-ini-pengunjung-kemarin-pengunjung-minggu-lalu-pengunjung-per-bulan-pengunjung-online--QAk {
+  margin-left: 0.0401rem;
+  max-width: 16.8rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.033rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.poli-kZe .poli-uBe .info-Sfr .translate-4WC {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

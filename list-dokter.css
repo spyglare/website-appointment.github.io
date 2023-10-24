@@ -1,0 +1,1047 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.list-dokter-fWg {
+  width: 100%;
+  height: 260rem;
+}
+.list-dokter-fWg .list-dokter-26L {
+  box-sizing: border-box;
+  padding-top: 3.7rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffebeb;
+}
+.list-dokter-fWg .list-dokter-26L .image-1-ko2 {
+  margin-bottom: 10.7rem;
+  width: 144rem;
+  height: 42.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA {
+  width: 100%;
+  height: 114.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-fw1a-DRi {
+  width: 135.6rem;
+  height: 2.6rem;
+  position: absolute;
+  left: 4.5rem;
+  top: 95.9rem;
+  display: flex;
+  align-items: flex-start;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-fw1a-DRi .frame-w6p {
+  margin: 0.2rem 1.85rem 0rem 0rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-fw1a-DRi .sebelumnya-SZN {
+  margin: 0.2rem 93.85rem 0rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 0.625;
+  letter-spacing: -0.0704rem;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-fw1a-DRi .selanjutnya-jYU {
+  margin-right: 1.9rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 0.625;
+  letter-spacing: -0.0704rem;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-fw1a-DRi .arrow-3p4 {
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .frame-2-Q8p {
+  box-sizing: border-box;
+  padding: 0.304rem 0.455rem 0.5rem 0.292rem;
+  width: 114.1rem;
+  height: 4rem;
+  position: absolute;
+  left: 17rem;
+  top: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .frame-2-Q8p .poli-tpg {
+  margin: 0.196rem 24.792rem 0rem 0rem;
+  width: 2.9166rem;
+  height: 2.9167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .frame-2-Q8p .dokter-RZi {
+  margin: 0.196rem 24.938rem 0rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .frame-2-Q8p .jadwal-xZe {
+  margin: 0rem 24.696rem 0.113rem 0rem;
+  width: 2.625rem;
+  height: 3.0833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .frame-2-Q8p .reservasi-GaL {
+  margin: 0.131rem 24.91rem 0rem 0rem;
+  width: 2.5188rem;
+  height: 2.5188rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .frame-2-Q8p .konfirmasi-CTz {
+  margin-top: 0.1955rem;
+  width: 2.9574rem;
+  height: 2.8303rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .group-2-wAg {
+  width: 119.85rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 11rem;
+  display: flex;
+  align-items: flex-end;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .group-2-wAg .menentukan-poli-FhA {
+  margin: 0rem 18.05rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .group-2-wAg .list-dokter-AZE {
+  margin: 0rem 19.75rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .group-2-wAg .jadwal-dokter-gnU {
+  margin-right: 18.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .group-2-wAg .reservasi-p7z {
+  margin-right: 20.45rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .group-2-wAg .konfirmasi-Ypg {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-n2ek-t7r {
+  width: 132rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 14.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .menentukan-dokter-untuk-check-jadwal-dokter-dzY {
+  width: 13.2rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 39.9rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW {
+  width: 111.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 16.3rem;
+  top: 31.8rem;
+  display: flex;
+  column-gap: 3.9rem;
+  align-items: center;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ {
+  width: 34.5rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.1rem #2d6a4f;
+  box-sizing: border-box;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .dokter-spesialis-gigi-denstist-yS8 {
+  width: 7.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 3.3rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .dr-alan-sudarsono-drg-sppros-eYG {
+  width: 21.1rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .ellipse-1-Lfz {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1rem;
+  background-color: #d9d9d9;
+  border-radius: 2.75rem;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .frame-28-4rt {
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 2.1rem;
+  width: 34.5rem;
+  height: 7.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .frame-28-4rt .ellipse-1-yDA {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-8FA.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .frame-28-4rt .auto-group-gzp6-sZS {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .frame-28-4rt .auto-group-gzp6-sZS .dr-alan-sudarsono-drg-sppros-ztx {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-RvQ .frame-28-4rt .auto-group-gzp6-sZS .dokter-spesialis-gigi-denstist-7ya {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-zXa {
+  box-sizing: border-box;
+  padding: 1rem 5.4rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-zXa .ellipse-1-7cC {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-JUY.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-zXa .auto-group-6sxg-e6L {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-zXa .auto-group-6sxg-e6L .dr-alan-sudarsono-drg-sppros-aEt {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-zXa .auto-group-6sxg-e6L .dokter-spesialis-gigi-denstist-hKW {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-BEg {
+  box-sizing: border-box;
+  padding: 1rem 2.9rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-BEg .ellipse-1-7PE {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-WFS.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-BEg .auto-group-38qw-SgQ {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-BEg .auto-group-38qw-SgQ .dr-alan-sudarsono-drg-sppros-mya {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-h8hn-8RW .frame-27-BEg .auto-group-38qw-SgQ .dokter-spesialis-gigi-denstist-hsE {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp {
+  width: 111.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 16.3rem;
+  top: 42.3rem;
+  display: flex;
+  column-gap: 3.9rem;
+  align-items: center;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-29-uiQ {
+  box-sizing: border-box;
+  padding: 1rem 6.3rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-29-uiQ .ellipse-1-F1a {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-uQk.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-29-uiQ .auto-group-fkf6-yCU {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-29-uiQ .auto-group-fkf6-yCU .dr-alan-sudarsono-drg-sppros-6nt {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-29-uiQ .auto-group-fkf6-yCU .dokter-spesialis-gigi-denstist-E8Q {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-31-ukL {
+  box-sizing: border-box;
+  padding: 1rem 4.1rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-31-ukL .ellipse-1-eC8 {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-5X6.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-31-ukL .auto-group-arcl-NP2 {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-31-ukL .auto-group-arcl-NP2 .dr-alan-sudarsono-drg-sppros-US4 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-31-ukL .auto-group-arcl-NP2 .dokter-spesialis-gigi-denstist-Ccx {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-32-h3v {
+  box-sizing: border-box;
+  padding: 1rem 2.6rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-32-h3v .ellipse-1-2rt {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-yMz.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-32-h3v .auto-group-pkhi-knt {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-32-h3v .auto-group-pkhi-knt .dr-alan-sudarsono-drg-sppros-VEg {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-tsrc-bSp .frame-32-h3v .auto-group-pkhi-knt .dokter-spesialis-gigi-denstist-DAg {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A {
+  width: 111.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 16.3rem;
+  top: 52.8rem;
+  display: flex;
+  column-gap: 3.9rem;
+  align-items: center;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe {
+  width: 34.5rem;
+  height: 100%;
+  cursor: pointer;
+  position: relative;
+  border: solid 0.1rem #2d6a4f;
+  box-sizing: border-box;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .dokter-spesialis-gigi-denstist-y3N {
+  width: 7.5rem;
+  height: 2.2rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 3.3rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .dr-alan-sudarsono-drg-sppros-GHN {
+  width: 18.4rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.2rem;
+  top: 1.4rem;
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .ellipse-1-N5W {
+  width: 5.5rem;
+  height: 5.5rem;
+  position: absolute;
+  left: 2.1rem;
+  top: 1rem;
+  background-color: #d9d9d9;
+  border-radius: 2.75rem;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .frame-34-hda {
+  box-sizing: border-box;
+  padding: 1rem 10.4rem 1rem 2.1rem;
+  width: 34.5rem;
+  height: 7.5rem;
+  cursor: pointer;
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .frame-34-hda .ellipse-1-owW {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-7kC.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .frame-34-hda .auto-group-hgxa-LAk {
+  margin: 0.4rem 0rem 1rem 0rem;
+  box-sizing: border-box;
+  padding-top: 1.9rem;
+  width: 11.9rem;
+  height: calc(100% - 1.4rem);
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-33-RXe .frame-34-hda .auto-group-hgxa-LAk .dokter-spesialis-gigi-denstist-Sja {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-35-7qi {
+  box-sizing: border-box;
+  padding: 1rem 4.4rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-35-7qi .ellipse-1-Fh2 {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-eat.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-35-7qi .auto-group-zmov-mvG {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-35-7qi .auto-group-zmov-mvG .dr-alan-sudarsono-drg-sppros-W7A {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-35-7qi .auto-group-zmov-mvG .dokter-spesialis-gigi-denstist-dSg {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-36-88Y {
+  box-sizing: border-box;
+  padding: 1rem 1.5rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-36-88Y .ellipse-1-raL {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-qsn.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-36-88Y .auto-group-2feq-nD6 {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-36-88Y .auto-group-2feq-nD6 .dr-alan-sudarsono-drg-sppros-iMe {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-12hv-71A .frame-36-88Y .auto-group-2feq-nD6 .dokter-spesialis-gigi-denstist-F6g {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 {
+  width: 111.3rem;
+  height: 7.5rem;
+  position: absolute;
+  left: 16.3rem;
+  top: 63.3rem;
+  display: flex;
+  column-gap: 3.9rem;
+  align-items: center;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-37-s84 {
+  box-sizing: border-box;
+  padding: 1rem 3.2rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-37-s84 .ellipse-1-bZr {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-RJG.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-37-s84 .auto-group-h3on-XiQ {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-37-s84 .auto-group-h3on-XiQ .dr-alan-sudarsono-drg-sppros-s1a {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-37-s84 .auto-group-h3on-XiQ .dokter-spesialis-gigi-denstist-bTN {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-39-gzc {
+  box-sizing: border-box;
+  padding: 1rem 5.4rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-39-gzc .ellipse-1-DzY {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-SxG.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-39-gzc .auto-group-c8pp-ZYc {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-39-gzc .auto-group-c8pp-ZYc .dr-alan-sudarsono-drg-sppros-HjW {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-39-gzc .auto-group-c8pp-ZYc .dokter-spesialis-gigi-denstist-QZE {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-40-W6U {
+  box-sizing: border-box;
+  padding: 1rem 4.4rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-40-W6U .ellipse-1-Rz8 {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg-GMN.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-40-W6U .auto-group-nrj8-xUG {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-40-W6U .auto-group-nrj8-xUG .dr-alan-sudarsono-drg-sppros-64g {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .auto-group-izhr-HHA .auto-group-dzdj-9C4 .frame-40-W6U .auto-group-nrj8-xUG .dokter-spesialis-gigi-denstist-1SY {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p {
+  box-sizing: border-box;
+  padding: 9.9rem 11.685rem 15.1rem 9.33rem;
+  width: 144.47rem;
+  height: 88.4rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #292b33;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-olfj-CG8 {
+  margin-right: 7.5273rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-olfj-CG8 .rumah-sakit-universitas-udayana-wUc {
+  margin-bottom: 0.6rem;
+  max-width: 31.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-olfj-CG8 .alamat-jl-rumah-sakit-universitas-udayana-nomor-1-jimbaran-kuta-selatan-badung-bali-803611-SRN {
+  margin: 0rem 0rem 36.8rem 0.301rem;
+  max-width: 31.2rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.033rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-olfj-CG8 .temukan-kami-di-facebook-4Sk {
+  max-width: 26.9rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .kerjasama-aR6 {
+  margin-right: 14.0995rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-c4rc-6PS {
+  margin-right: 8.9273rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-c4rc-6PS .statistik-kunjungan-3Za {
+  margin-bottom: 5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .auto-group-c4rc-6PS .total-pengunjung-pengunjung-hari-ini-pengunjung-kemarin-pengunjung-minggu-lalu-pengunjung-per-bulan-pengunjung-online--xRe {
+  margin-left: 0.0428rem;
+  max-width: 16.8rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.033rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.list-dokter-fWg .list-dokter-26L .info-V6p .translate-DsN {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}

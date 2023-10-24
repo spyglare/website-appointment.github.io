@@ -1,0 +1,600 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.reservasi-pasien-l-EPr {
+  width: 100%;
+  height: 260rem;
+
+  .reservasi-pasien-lama-Lxg {
+    flex-direction: column;
+    box-sizing: border-box;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    background-color: #ffebeb;
+    padding-top: 3.7rem;
+    height: 100%;
+
+    .image-1-TnQ {
+      margin-bottom: 10.7rem;
+      width: 144rem;
+      height: 42.7rem;
+      object-fit: cover;
+      vertical-align: top;
+      flex-shrink: 0;
+    }
+    .auto-group-unx2-nJt {
+      flex-shrink: 0;
+      width: 100%;
+      height: 114.5rem;
+      position: relative;
+
+      .auto-group-2bck-XGU {
+        align-items: flex-start;
+        width: 134.9rem;
+        height: 2.4rem;
+        position: absolute;
+        left: 5.2rem;
+        top: 95.9rem;
+        display: flex;
+
+        .frame-SPS {
+          margin-right: 1.85rem;
+          width: 2.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .sebelumnya-mRi {
+          font-weight: 800;
+          letter-spacing: -0.0704rem;
+          flex-shrink: 0;
+          line-height: 0.625;
+          color: #6c757d;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-right: 93.15rem;
+          text-align: center;
+          font-size: 3.2rem;
+        }
+        .selanjutnya-sje {
+          font-size: 3.2rem;
+          font-weight: 800;
+          line-height: 0.625;
+          letter-spacing: -0.0704rem;
+          color: #6c757d;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 1.9rem;
+          text-align: center;
+        }
+        .arrow-b9r {
+          width: 2.4rem;
+          height: 2.4rem;
+          cursor: pointer;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+      }
+      .frame-2-vhv {
+        position: absolute;
+        left: 17rem;
+        top: 5.3rem;
+        display: flex;
+        align-items: center;
+        box-sizing: border-box;
+        padding: 0.304rem 0.455rem 0.5rem 0.292rem;
+        width: 114.1rem;
+        height: 4rem;
+
+        .poli-Reg {
+          height: 2.9167rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0.196rem 24.792rem 0rem 0rem;
+          width: 2.9166rem;
+        }
+        .dokter-kS4 {
+          margin: 0.196rem 24.938rem 0rem 0rem;
+          width: 3rem;
+          height: 3rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .jadwal-t2U {
+          margin: 0rem 24.696rem 0.113rem 0rem;
+          width: 2.625rem;
+          height: 3.0833rem;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+        }
+        .reservasi-ofE {
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin: 0.131rem 24.91rem 0rem 0rem;
+          width: 2.5188rem;
+          height: 2.5188rem;
+        }
+        .konfirmasi-8Sc {
+          position: relative;
+          object-fit: contain;
+          vertical-align: top;
+          flex-shrink: 0;
+          margin-top: 0.1955rem;
+          width: 2.9574rem;
+          height: 2.8303rem;
+        }
+      }
+      .group-2-rNc {
+        height: 1.9rem;
+        position: absolute;
+        left: 12.9rem;
+        top: 11rem;
+        display: flex;
+        align-items: flex-end;
+        width: 119.85rem;
+
+        .menentukan-poli-yTE {
+          margin: 0rem 18.05rem 0.1rem 0rem;
+          font-size: 1.5rem;
+          font-weight: 700;
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          line-height: 1.1725;
+          color: #495057;
+          font-family: Roboto, 'Source Sans Pro';
+        }
+        .list-dokter-5WG {
+          margin: 0rem 19.75rem 0.1rem 0rem;
+          font-weight: 700;
+          line-height: 1.1725;
+          font-family: Roboto, 'Source Sans Pro';
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.5rem;
+          color: #495057;
+          white-space: nowrap;
+        }
+        .jadwal-dokter-zNL {
+          text-align: center;
+          font-weight: 700;
+          color: #495057;
+          font-family: Roboto, 'Source Sans Pro';
+          margin-right: 18.6rem;
+          font-size: 1.5rem;
+          line-height: 1.1725;
+          white-space: nowrap;
+          flex-shrink: 0;
+        }
+        .reservasi-Wba {
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          margin-right: 20.45rem;
+          text-align: center;
+          font-size: 1.5rem;
+          line-height: 1.1725;
+          color: #2d6a4f;
+          font-weight: 700;
+        }
+        .konfirmasi-qNx {
+          line-height: 1.1725;
+          color: #495057;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          flex-shrink: 0;
+          text-align: center;
+          font-size: 1.5rem;
+          font-weight: 700;
+        }
+      }
+      .auto-group-ngau-mXW {
+        vertical-align: top;
+        width: 132rem;
+        height: 1.8rem;
+        position: absolute;
+        left: 7.5rem;
+        top: 14.7rem;
+        object-fit: contain;
+      }
+      .lengkapi-data-untuk-melakukan-reservasi-6pg {
+        left: 94.55rem;
+        top: 19.5rem;
+        font-size: 1.5rem;
+        line-height: 1.1725;
+        color: #2d6a4f;
+        font-family: Roboto, 'Source Sans Pro';
+        position: absolute;
+        height: 3.6rem;
+        text-align: center;
+        font-weight: 700;
+        width: 14.1rem;
+      }
+      .frame-43-Br8 {
+        top: 27rem;
+        overflow: hidden;
+        align-items: center;
+        border: solid 0.3rem #2d6a4f;
+        box-sizing: border-box;
+        background-color: #52b788;
+        width: 58.3rem;
+        position: absolute;
+        display: flex;
+        flex-direction: column;
+        border-radius: 1.5rem;
+        height: 62.5rem;
+        left: 42.9rem;
+
+        .auto-group-trdi-un8 {
+          width: 100%;
+          height: 8.1rem;
+          display: flex;
+          align-items: center;
+          flex-shrink: 0;
+
+          .auto-group-cnj4-G6t {
+            line-height: 1.1725;
+            height: 100%;
+            white-space: nowrap;
+            background-color: #2d6a4f;
+            font-family: Roboto, 'Source Sans Pro';
+            font-size: 2.4rem;
+            font-weight: 800;
+            letter-spacing: 0.12rem;
+            color: #ffffff;
+            align-items: center;
+            justify-content: center;
+            border-radius: 1.5rem 0 0 0;
+            text-align: center;
+            flex-shrink: 0;
+            display: flex;
+            width: 29.1rem;
+          }
+          .auto-group-f8y8-ufe {
+            text-align: center;
+            white-space: nowrap;
+            border-radius: 0 1.5rem 0 0;
+            flex-shrink: 0;
+            font-size: 2.4rem;
+            height: 100%;
+            font-weight: 800;
+            line-height: 1.1725;
+            letter-spacing: 0.12rem;
+            display: flex;
+            width: 29.2rem;
+            font-family: Roboto, 'Source Sans Pro';
+            align-items: center;
+            justify-content: center;
+            background-color: #d9d9d9;
+            color: #2d6a4f;
+          }
+        }
+        .auto-group-xefa-njS {
+          width: 100%;
+          row-gap: 3.3rem;
+          align-items: center;
+          display: flex;
+          flex-direction: column;
+          flex-shrink: 0;
+          box-sizing: border-box;
+          padding: 6.8rem 4.7rem 29.3rem 3.6rem;
+
+          .code-input-W9e {
+            position: relative;
+            border: solid 0.1rem #6b6b6b;
+            box-sizing: border-box;
+            background-color: #dddddd;
+            border-radius: 1rem;
+            flex-shrink: 0;
+            width: 100%;
+            height: 3.9rem;
+
+            .line-1-f2Y {
+              height: 1.5rem;
+              position: absolute;
+              left: 1.4rem;
+              top: 1.6rem;
+              background-color: #000000;
+              width: 0.1rem;
+            }
+            .line-2-ncx {
+              background-color: #000000;
+              width: 0.1rem;
+              height: 1.5rem;
+              position: absolute;
+              left: 7.6rem;
+              top: 1.6rem;
+            }
+            .item--8B2 {
+              position: absolute;
+              left: 1.4rem;
+              line-height: 1.1725;
+              color: #474747;
+              font-family: Roboto, 'Source Sans Pro';
+              width: 6.4rem;
+              top: 1.7rem;
+              font-size: 1.1rem;
+              font-weight: 400;
+              letter-spacing: 0.055rem;
+              white-space: nowrap;
+              height: 1.3rem;
+            }
+            .rectangle-4-DTN {
+              width: 8.2rem;
+              height: 1.8rem;
+              position: absolute;
+              left: 1rem;
+              top: 1.4rem;
+              background-color: #dddddd;
+            }
+            .code-YkY {
+              position: absolute;
+              left: 1.4rem;
+              top: 1.1rem;
+              font-weight: 800;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+              width: 7.2rem;
+              height: 1.3rem;
+              font-size: 1.1rem;
+              line-height: 1.1725;
+              letter-spacing: 0.055rem;
+              color: #585858;
+            }
+          }
+          .code-input-ckQ {
+            flex-shrink: 0;
+            width: 100%;
+            height: 3.9rem;
+            position: relative;
+            border: solid 0.1rem #6b6b6b;
+            box-sizing: border-box;
+            background-color: #dddddd;
+            border-radius: 1rem;
+
+            .line-1-mdJ {
+              top: 1.6rem;
+              background-color: #000000;
+              width: 0.1rem;
+              height: 1.5rem;
+              position: absolute;
+              left: 1.4rem;
+            }
+            .line-2-iHe {
+              width: 0.1rem;
+              height: 1.5rem;
+              position: absolute;
+              left: 7.6rem;
+              top: 1.6rem;
+              background-color: #000000;
+            }
+            .item--46c {
+              height: 1.3rem;
+              left: 1.4rem;
+              top: 1.7rem;
+              font-size: 1.1rem;
+              letter-spacing: 0.055rem;
+              color: #474747;
+              width: 6.4rem;
+              position: absolute;
+              font-weight: 400;
+              line-height: 1.1725;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+            .rectangle-4-9tk {
+              width: 8.2rem;
+              height: 1.8rem;
+              position: absolute;
+              left: 1rem;
+              top: 1.4rem;
+              background-color: #dddddd;
+            }
+            .code-trL {
+              letter-spacing: 0.055rem;
+              white-space: nowrap;
+              width: 9.6rem;
+              height: 1.3rem;
+              font-size: 1.1rem;
+              font-weight: 800;
+              line-height: 1.1725;
+              color: #585858;
+              font-family: Roboto, 'Source Sans Pro';
+              position: absolute;
+              left: 1.4rem;
+              top: 1.1rem;
+            }
+          }
+          .code-input-BaY {
+            width: 100%;
+            height: 3.9rem;
+            position: relative;
+            border: solid 0.1rem #6b6b6b;
+            box-sizing: border-box;
+            background-color: #dddddd;
+            border-radius: 1rem;
+            flex-shrink: 0;
+
+            .line-1-XuJ {
+              top: 1.6rem;
+              background-color: #000000;
+              width: 0.1rem;
+              height: 1.5rem;
+              position: absolute;
+              left: 1.4rem;
+            }
+            .line-2-4uE {
+              background-color: #000000;
+              width: 0.1rem;
+              height: 1.5rem;
+              position: absolute;
+              left: 7.6rem;
+              top: 1.6rem;
+            }
+            .item--DGL {
+              font-family: Roboto, 'Source Sans Pro';
+              top: 1.7rem;
+              line-height: 1.1725;
+              letter-spacing: 0.055rem;
+              left: 1.4rem;
+              font-size: 1.1rem;
+              font-weight: 400;
+              color: #474747;
+              white-space: nowrap;
+              width: 6.4rem;
+              height: 1.3rem;
+              position: absolute;
+            }
+            .rectangle-4-7cc {
+              background-color: #dddddd;
+              width: 8.2rem;
+              height: 1.8rem;
+              position: absolute;
+              left: 1rem;
+              top: 1.4rem;
+            }
+            .code-f8L {
+              left: 1.4rem;
+              top: 1.1rem;
+              font-size: 1.1rem;
+              font-weight: 800;
+              letter-spacing: 0.055rem;
+              color: #585858;
+              width: 7.5rem;
+              height: 1.3rem;
+              position: absolute;
+              line-height: 1.1725;
+              font-family: Roboto, 'Source Sans Pro';
+              white-space: nowrap;
+            }
+          }
+        }
+      }
+    }
+    .info-7m2 {
+      align-items: flex-start;
+      background-color: #292b33;
+      flex-shrink: 0;
+      box-sizing: border-box;
+      padding: 9.9rem 11.685rem 15.1rem 9.33rem;
+      width: 144.47rem;
+      height: 88.4rem;
+      display: flex;
+
+      .auto-group-rkbs-dUU {
+        flex-shrink: 0;
+        margin-right: 7.5273rem;
+        height: 100%;
+        display: flex;
+        flex-direction: column;
+
+        .rumah-sakit-universitas-udayana-yHS {
+          line-height: 1.3888888889;
+          letter-spacing: -0.0792rem;
+          font-family: Roboto, 'Source Sans Pro';
+          flex-shrink: 0;
+          margin-bottom: 0.6rem;
+          max-width: 31.6rem;
+          font-size: 3.6rem;
+          font-weight: 700;
+          color: #ffffff;
+        }
+        .alamat-jl-rumah-sakit-universitas-udayana-nomor-1-jimbaran-kuta-selatan-badung-bali-803611-rs2 {
+          letter-spacing: -0.033rem;
+          font-family: Roboto, 'Source Sans Pro';
+          flex-shrink: 0;
+          font-size: 1.5rem;
+          font-weight: 600;
+          line-height: 1.3333333333;
+          font-style: italic;
+          color: #ffffff;
+          margin: 0rem 0rem 36.8rem 0.301rem;
+          max-width: 31.2rem;
+        }
+        .temukan-kami-di-facebook-sXE {
+          font-weight: 700;
+          line-height: 1.3888888889;
+          letter-spacing: -0.0792rem;
+          color: #ffffff;
+          font-family: Roboto, 'Source Sans Pro';
+          flex-shrink: 0;
+          max-width: 26.9rem;
+          font-size: 3.6rem;
+        }
+      }
+      .kerjasama-Bnp {
+        margin-right: 14.0995rem;
+        line-height: 1.3888888889;
+        color: #ffffff;
+        font-family: Roboto, 'Source Sans Pro';
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3.6rem;
+        font-weight: 700;
+        letter-spacing: -0.0792rem;
+      }
+      .auto-group-2uxs-tSL {
+        margin-right: 8.9273rem;
+        display: flex;
+        flex-direction: column;
+        flex-shrink: 0;
+
+        .statistik-kunjungan-qMa {
+          font-weight: 700;
+          line-height: 1.3888888889;
+          letter-spacing: -0.0792rem;
+          font-family: Roboto, 'Source Sans Pro';
+          white-space: nowrap;
+          margin-bottom: 5rem;
+          font-size: 3.6rem;
+          color: #ffffff;
+          flex-shrink: 0;
+        }
+        .total-pengunjung-pengunjung-hari-ini-pengunjung-kemarin-pengunjung-minggu-lalu-pengunjung-per-bulan-pengunjung-online--wfW {
+          font-size: 1.5rem;
+          font-family: Roboto, 'Source Sans Pro';
+          flex-shrink: 0;
+          max-width: 16.8rem;
+          font-weight: 600;
+          line-height: 1.3333333333;
+          letter-spacing: -0.033rem;
+          color: #ffffff;
+          margin-left: 0.0428rem;
+        }
+      }
+      .translate-QZ6 {
+        white-space: nowrap;
+        flex-shrink: 0;
+        font-size: 3.6rem;
+        font-weight: 700;
+        line-height: 1.3888888889;
+        letter-spacing: -0.0792rem;
+        color: #ffffff;
+        font-family: Roboto, 'Source Sans Pro';
+      }
+    }
+  }
+}

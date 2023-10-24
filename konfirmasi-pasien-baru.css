@@ -1,0 +1,745 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 144rem;
+}.konfirmasi-pasien-baru-7Np {
+  width: 100%;
+  height: 260rem;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ {
+  box-sizing: border-box;
+  padding-top: 3.7rem;
+  width: 100%;
+  height: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffebeb;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .image-1-ySx {
+  margin-bottom: 10.7rem;
+  width: 144rem;
+  height: 42.7rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 {
+  width: 100%;
+  height: 114.5rem;
+  position: relative;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .auto-group-ohkv-bDS {
+  width: 134.074rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 5.2rem;
+  top: 95.9rem;
+  display: flex;
+  align-items: center;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .auto-group-ohkv-bDS .frame-Hc4 {
+  margin-right: 1.85rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  cursor: pointer;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .auto-group-ohkv-bDS .sebelumnya-12G {
+  margin: 0rem 99.7rem 0.4rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 0.625;
+  letter-spacing: -0.0704rem;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .auto-group-ohkv-bDS .kirim-3Uk {
+  margin: 0rem 4.85rem 0.4rem 0rem;
+  text-align: center;
+  font-size: 3.2rem;
+  font-weight: 800;
+  line-height: 0.625;
+  letter-spacing: -0.0704rem;
+  color: #6c757d;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .auto-group-ohkv-bDS .arrow-w4L {
+  width: 0.774rem;
+  height: 1.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY {
+  box-sizing: border-box;
+  padding: 0.304rem 0.455rem 0.25rem 0.292rem;
+  width: 141.6rem;
+  height: 4rem;
+  position: absolute;
+  left: 17rem;
+  top: 5.3rem;
+  display: flex;
+  align-items: center;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY .poli-MNx {
+  margin: 0rem 24.792rem 0.054rem 0rem;
+  width: 2.9166rem;
+  height: 2.9167rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY .dokter-ss6 {
+  margin: 0rem 24.938rem 0.054rem 0rem;
+  width: 3rem;
+  height: 3rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY .jadwal-nz4 {
+  margin: 0rem 24.638rem 0.363rem 0rem;
+  width: 2.625rem;
+  height: 3.0833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY .jadwal-WfA {
+  margin: 0.346rem 24.2rem 0rem 0rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY .reservasi-dzg {
+  margin: 0rem 24.587rem 0.054rem 0rem;
+  width: 3.1rem;
+  height: 3.1rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-2-5AY .konfirmasi-9y2 {
+  margin-bottom: 0.0544rem;
+  width: 2.9574rem;
+  height: 2.8303rem;
+  position: relative;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .group-2-gxx {
+  width: 119.85rem;
+  height: 1.9rem;
+  position: absolute;
+  left: 12.9rem;
+  top: 11rem;
+  display: flex;
+  align-items: flex-end;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .group-2-gxx .menentukan-poli-CwJ {
+  margin: 0rem 18.05rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .group-2-gxx .list-dokter-ht4 {
+  margin: 0rem 19.75rem 0.1rem 0rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .group-2-gxx .jadwal-dokter-1dr {
+  margin-right: 18.6rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .group-2-gxx .reservasi-8yN {
+  margin-right: 20.45rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #495057;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .group-2-gxx .konfirmasi-GZn {
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .auto-group-bpx2-DE8 {
+  width: 132rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 7.5rem;
+  top: 14.7rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .mengonfirmasi-data-diri-yang-sudah-diinput-8bz {
+  width: 14rem;
+  height: 5.3rem;
+  position: absolute;
+  left: 122.1rem;
+  top: 19.5rem;
+  text-align: center;
+  font-size: 1.5rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC {
+  box-sizing: border-box;
+  padding: 3rem 1.9rem 7.2rem 2.3rem;
+  width: 63.3rem;
+  height: 57.1rem;
+  position: absolute;
+  left: 40.4rem;
+  top: 30.3rem;
+  overflow: hidden;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  border: solid 0.1rem #000000;
+  border-radius: 1.5rem;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS {
+  margin-bottom: 4.7rem;
+  width: 100%;
+  height: 7.5rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .frame-41-PRS {
+  margin-right: 2.1375rem;
+  box-sizing: border-box;
+  padding: 1rem 1.2rem 1rem 2.1rem;
+  height: 100%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  border: solid 0.1rem #2d6a4f;
+  border-radius: 2rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .frame-41-PRS .ellipse-1-TJp {
+  margin-right: 4.6rem;
+  width: 5.5rem;
+  height: 5.5rem;
+  background-size: 100% 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url('../assets/ellipse-1-bg.png');
+  border-radius: 2.75rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .frame-41-PRS .auto-group-4ytn-LtQ {
+  margin: 0.4rem 0rem 1rem 0rem;
+  height: calc(100% - 1.4rem);
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .frame-41-PRS .auto-group-4ytn-LtQ .dr-alan-sudarsono-drg-sppros-Ty2 {
+  font-size: 1.6rem;
+  font-weight: 700;
+  line-height: 1.1725;
+  letter-spacing: -0.064rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .frame-41-PRS .auto-group-4ytn-LtQ .dokter-spesialis-gigi-denstist-AsS {
+  max-width: 7.5rem;
+  font-size: 0.9rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: -0.036rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .jadwal-SKA {
+  margin: 0rem 1.538rem 0.308rem 0rem;
+  width: 2.625rem;
+  height: 3.0833rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .auto-group-yj6k-6BS .juli-2023-16-00-18-00-xoJ {
+  margin-top: 0.1rem;
+  font-size: 1.3rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  letter-spacing: 0.065rem;
+  color: #2d6a4f;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-r7z {
+  margin: 0rem 4.7rem 3.8rem 4.4rem;
+  width: calc(100% - 9.1rem);
+  height: 3.9rem;
+  position: relative;
+  border: solid 0.1rem #6b6b6b;
+  box-sizing: border-box;
+  background-color: #dddddd;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-r7z .line-1-7pc {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-r7z .line-2-pDE {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-r7z .item--kMn {
+  width: 6.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #474747;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-r7z .rectangle-4-EXr {
+  width: 8.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.4rem;
+  background-color: #dddddd;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-r7z .code-xik {
+  width: 7.2rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #585858;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-2Ti {
+  margin: 0rem 4.8rem 3.8rem 4.3rem;
+  width: calc(100% - 9.1rem);
+  height: 3.9rem;
+  position: relative;
+  border: solid 0.1rem #6b6b6b;
+  box-sizing: border-box;
+  background-color: #dddddd;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-2Ti .line-1-LzC {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-2Ti .line-2-5gt {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-2Ti .item--DYC {
+  width: 6.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #474747;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-2Ti .rectangle-4-7da {
+  width: 8.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.4rem;
+  background-color: #dddddd;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-2Ti .code-etQ {
+  width: 7.7rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #585858;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-jQ4 {
+  margin: 0rem 4.8rem 3.8rem 4.3rem;
+  width: calc(100% - 9.1rem);
+  height: 3.9rem;
+  position: relative;
+  border: solid 0.1rem #6b6b6b;
+  box-sizing: border-box;
+  background-color: #dddddd;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-jQ4 .line-1-3Qk {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-jQ4 .line-2-afa {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-jQ4 .item--vUY {
+  width: 6.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #474747;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-jQ4 .rectangle-4-pZv {
+  width: 8.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.4rem;
+  background-color: #dddddd;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-jQ4 .code-N5e {
+  width: 7.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #585858;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-eYx {
+  margin: 0rem 4.8rem 3.8rem 4.3rem;
+  width: calc(100% - 9.1rem);
+  height: 3.9rem;
+  position: relative;
+  border: solid 0.1rem #6b6b6b;
+  box-sizing: border-box;
+  background-color: #dddddd;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-eYx .line-1-8yv {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-eYx .line-2-UH6 {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-eYx .item--QgY {
+  width: 6.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #474747;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-eYx .rectangle-4-HkL {
+  width: 8.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.4rem;
+  background-color: #dddddd;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-eYx .code-S7S {
+  width: 3.9rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #585858;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-v2c {
+  margin: 0rem 4.8rem 0rem 4.3rem;
+  width: calc(100% - 9.1rem);
+  height: 3.9rem;
+  position: relative;
+  border: solid 0.1rem #6b6b6b;
+  box-sizing: border-box;
+  background-color: #dddddd;
+  border-radius: 1rem;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-v2c .line-1-Eoz {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-v2c .line-2-yWg {
+  width: 0.1rem;
+  height: 1.5rem;
+  position: absolute;
+  left: 7.6rem;
+  top: 1.6rem;
+  background-color: #000000;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-v2c .item--X2Q {
+  width: 6.4rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.7rem;
+  font-size: 1.1rem;
+  font-weight: 400;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #474747;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-v2c .rectangle-4-pGQ {
+  width: 8.2rem;
+  height: 1.8rem;
+  position: absolute;
+  left: 1rem;
+  top: 1.4rem;
+  background-color: #dddddd;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .auto-group-5vcg-GS4 .frame-44-RLC .code-input-v2c .code-A5N {
+  width: 3.5rem;
+  height: 1.3rem;
+  position: absolute;
+  left: 1.4rem;
+  top: 1.1rem;
+  font-size: 1.1rem;
+  font-weight: 800;
+  line-height: 1.1725;
+  letter-spacing: 0.055rem;
+  color: #585858;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a {
+  box-sizing: border-box;
+  padding: 9.9rem 11.685rem 15.1rem 9.33rem;
+  width: 144.47rem;
+  height: 88.4rem;
+  display: flex;
+  align-items: flex-start;
+  background-color: #292b33;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-jf7e-Xa8 {
+  margin-right: 7.5273rem;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-jf7e-Xa8 .rumah-sakit-universitas-udayana-55r {
+  margin-bottom: 0.6rem;
+  max-width: 31.6rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-jf7e-Xa8 .alamat-jl-rumah-sakit-universitas-udayana-nomor-1-jimbaran-kuta-selatan-badung-bali-803611-mjN {
+  margin: 0rem 0rem 36.8rem 0.301rem;
+  max-width: 31.2rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.033rem;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-jf7e-Xa8 .temukan-kami-di-facebook-Bo6 {
+  max-width: 26.9rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .kerjasama-txQ {
+  margin-right: 14.0995rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-tblt-Dzg {
+  margin-right: 8.9273rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-tblt-Dzg .statistik-kunjungan-Nsa {
+  margin-bottom: 5rem;
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .auto-group-tblt-Dzg .total-pengunjung-pengunjung-hari-ini-pengunjung-kemarin-pengunjung-minggu-lalu-pengunjung-per-bulan-pengunjung-online--WD6 {
+  margin-left: 0.0428rem;
+  max-width: 16.8rem;
+  font-size: 1.5rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  letter-spacing: -0.033rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  flex-shrink: 0;
+}
+.konfirmasi-pasien-baru-7Np .konfirmasi-pasien-baru-itQ .info-27a .translate-ZhA {
+  font-size: 3.6rem;
+  font-weight: 700;
+  line-height: 1.3888888889;
+  letter-spacing: -0.0792rem;
+  color: #ffffff;
+  font-family: Roboto, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
